@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: b8d16598a4c67534889a327d39fc1b3a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube_000
+    100002: //RootNode
+    100004: Plane
+    100006: Plane_001
+    100008: Torus_001
+    400000: Cube_000
+    400002: //RootNode
+    400004: Plane
+    400006: Plane_001
+    400008: Torus_001
+    2300000: Cube_000
+    2300002: Plane
+    2300004: Plane_001
+    2300006: Torus_001
+    3300000: Cube_000
+    3300002: Plane
+    3300004: Plane_001
+    3300006: Torus_001
+    4300000: Plane_001
+    4300002: Cube_000
+    4300004: Plane
+    4300006: Torus_001
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor__metal_floor_png
+    second: {fileID: 2100000, guid: fc7187869e6774b429055243955b44c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 8501aef8766fdb342bca96221a15355f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__fisher_png
+    second: {fileID: 2100000, guid: 376aeb4af5559734b83418a5dc483839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__fisher_png
+    second: {fileID: 2100000, guid: 08f71fe511dd0c44aafc44f84691012c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: props__props_texture_png
+    second: {fileID: 2100000, guid: 1c478ad364a229b42aabc4772763459c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: web
+    second: {fileID: 2100000, guid: d8f23be09bf438b419a5cc59339de07f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: web__metal_floor_png
+    second: {fileID: 2100000, guid: 5f65ddd7e5a335749a62183d6902975c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: web__web_png
+    second: {fileID: 2100000, guid: 290e69d67e51acb4e9b45d9b7b01dee6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 35
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
